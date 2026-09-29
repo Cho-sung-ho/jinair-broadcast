@@ -83,7 +83,7 @@ We apologize for the inconvenience.
       <div className="max-w-5xl mx-auto bg-white p-8 rounded-3xl shadow-xl">
 
         <h1 className="text-3xl font-bold mb-6">
-          ✈️ 진에어 방송문 생성기
+          ✈️ 진에어 방송 시스템
         </h1>
 
         {/* 메뉴 */}
